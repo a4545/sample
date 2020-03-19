@@ -14,9 +14,13 @@
   "author": "Moon Highway",
   "license": "MIT",
   "dependencies": {
+    "@mdx-js/loader": "^1.5.7",
+    "@next/mdx": "^9.3.1",
     "apollo-server": "^2.9.4",
     "faker": "^4.1.0",
+    "fs": "0.0.1-security",
     "graphql": "^14.5.8",
+    "markdown-to-jsx": "^6.11.0",
     "nodemon": "^1.19.3"
   }
 }

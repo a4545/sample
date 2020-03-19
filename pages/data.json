@@ -1,0 +1,16 @@
+{
+    "allCats": [
+        {
+            "id": 1,
+            "age": 24,
+            "name": "john",
+            "nice": true
+        },
+        {
+            "id": 2,
+            "age": 22,
+            "name": "jon",
+            "nice": false
+        }
+    ]
+}
