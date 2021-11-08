@@ -16,7 +16,7 @@
   "dependencies": {
     "@mdx-js/loader": "^1.5.7",
     "@next/mdx": "^9.3.1",
-    "apollo-server": "^2.9.4",
+    "apollo-server": "^2.25.3",
     "faker": "^4.1.0",
     "fs": "0.0.1-security",
     "graphql": "^14.5.8",
